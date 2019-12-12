@@ -1,0 +1,11 @@
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\bin\Debug\netcoreapp3.0\StartApp.DataAccess.deps.json
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\bin\Debug\netcoreapp3.0\StartApp.DataAccess.dll
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\bin\Debug\netcoreapp3.0\StartApp.DataAccess.pdb
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\bin\Debug\netcoreapp3.0\StartApp.Core.dll
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\bin\Debug\netcoreapp3.0\StartApp.Core.pdb
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\obj\Debug\netcoreapp3.0\StartApp.DataAccess.csprojAssemblyReference.cache
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\obj\Debug\netcoreapp3.0\StartApp.DataAccess.AssemblyInfoInputs.cache
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\obj\Debug\netcoreapp3.0\StartApp.DataAccess.AssemblyInfo.cs
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\obj\Debug\netcoreapp3.0\StartApp.DataAccess.csproj.CopyComplete
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\obj\Debug\netcoreapp3.0\StartApp.DataAccess.dll
+D:\Github\NTierAspNetCore\StartApp\StartApp.DataAccess\obj\Debug\netcoreapp3.0\StartApp.DataAccess.pdb

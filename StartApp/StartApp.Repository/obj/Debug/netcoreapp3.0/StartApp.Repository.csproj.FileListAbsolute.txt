@@ -1,0 +1,11 @@
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\obj\Debug\netcoreapp3.0\StartApp.Repository.csprojAssemblyReference.cache
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\obj\Debug\netcoreapp3.0\StartApp.Repository.AssemblyInfoInputs.cache
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\obj\Debug\netcoreapp3.0\StartApp.Repository.AssemblyInfo.cs
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\bin\Debug\netcoreapp3.0\StartApp.Repository.deps.json
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\bin\Debug\netcoreapp3.0\StartApp.Repository.dll
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\bin\Debug\netcoreapp3.0\StartApp.Repository.pdb
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\bin\Debug\netcoreapp3.0\StartApp.Core.dll
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\bin\Debug\netcoreapp3.0\StartApp.Core.pdb
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\obj\Debug\netcoreapp3.0\StartApp.Repository.csproj.CopyComplete
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\obj\Debug\netcoreapp3.0\StartApp.Repository.dll
+D:\Github\NTierAspNetCore\StartApp\StartApp.Repository\obj\Debug\netcoreapp3.0\StartApp.Repository.pdb

@@ -1,0 +1,7 @@
+D:\Github\NTierAspNetCore\StartApp\StartApp.Core\bin\Debug\netcoreapp3.0\StartApp.Core.deps.json
+D:\Github\NTierAspNetCore\StartApp\StartApp.Core\bin\Debug\netcoreapp3.0\StartApp.Core.dll
+D:\Github\NTierAspNetCore\StartApp\StartApp.Core\bin\Debug\netcoreapp3.0\StartApp.Core.pdb
+D:\Github\NTierAspNetCore\StartApp\StartApp.Core\obj\Debug\netcoreapp3.0\StartApp.Core.AssemblyInfoInputs.cache
+D:\Github\NTierAspNetCore\StartApp\StartApp.Core\obj\Debug\netcoreapp3.0\StartApp.Core.AssemblyInfo.cs
+D:\Github\NTierAspNetCore\StartApp\StartApp.Core\obj\Debug\netcoreapp3.0\StartApp.Core.dll
+D:\Github\NTierAspNetCore\StartApp\StartApp.Core\obj\Debug\netcoreapp3.0\StartApp.Core.pdb
