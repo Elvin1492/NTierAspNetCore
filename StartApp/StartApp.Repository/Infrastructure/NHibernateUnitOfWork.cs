@@ -1,9 +1,10 @@
-﻿using System.Data;
+﻿using System;
+using System.Data;
 using NHibernate;
 
 namespace StartApp.Repository.Infrastructure
 {
-    public class NHibernateUnitOfWork : IUnitOfWork
+    public class NHibernateUnitOfWork : IUnitOfWork, IDisposable
     {
         private ISession _currentSession;
         private readonly ISessionFactory _sessionFactory;
@@ -38,6 +39,31 @@ namespace StartApp.Repository.Infrastructure
                     return command.Transaction;
                 }
             }
+        }
+
+        public void Dispose()
+        {
+            _currentSession?.Dispose();
+            _sessionFactory?.Dispose();
+            GC.SuppressFinalize(this);
+        }
+
+        private bool _disposed = false;
+        protected virtual void Dispose(bool disposing)
+        {
+            if(_disposed) return;
+
+            if (disposing)
+            {
+                GC.SuppressFinalize(this);
+            }
+
+            _disposed = true;
+        }
+
+        ~NHibernateUnitOfWork()
+        {
+            Dispose(false);
         }
     }
 }
